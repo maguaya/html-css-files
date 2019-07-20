@@ -1,0 +1,504 @@
+
+body{
+  font-family:Roboto Condensed;
+}
+.info{
+  background-image:url(../images/hanz.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  text-align: center;
+  text-decoration: none;
+  padding-top: 10%;
+  padding-bottom: 10%;
+}
+
+.info h1{
+font-size: 40px;
+margin: 0 0 0 27px;
+color: black;
+}
+hr{
+width: 700px;
+border:1px solid black;
+}
+.lorem{
+text-align: center;
+border:1px solid black;
+color: black;
+font-size: 20px;
+text-decoration: none;
+padding: 10px 20px;
+position: absolute;
+    top: 70%;
+    left: 50%;
+    transform: translate(-70%, -50%);
+
+}
+.nav{
+width: 100%;
+height: 70px;
+background-color:black;
+}
+.nav a:hover{
+color:green;
+}
+.van{
+float: right;
+margin-top: 15px;
+display: inline-block;
+/*	position: fixed;*/
+}
+ .van a{
+text-decoration: none;
+color: white;
+/*margin-right: 210px;*/
+padding: 5px 20px;
+font-family: arial;
+font-size: 10px;
+margin-top:15px; 
+}
+.A{
+width: 40px;
+height: 35px;
+background-color: grey;
+font-size: 20px;
+margin-top: -5%;
+margin-left: 210px;
+}
+
+.A h2{
+padding-left: 15%;
+color: white;
+
+}
+
+.one{
+/*position: absolute;*/
+margin-top: -3.4%;
+margin-left: 270px;
+
+}
+.one h2{
+color: white;
+}
+.one span{
+display: inline;
+color: green;
+}
+.less{
+width: 1600px;
+height: 340px;
+margin-left: 148px;
+margin-top: 20%;
+background-color: grey;
+margin: 0 auto;
+}
+.column1{
+  margin-top: 10px;
+  float: left;
+  width: 300px;
+  padding-top: 100px;
+  height: 100px;
+  margin-left: 150px;
+}
+.column2{
+  margin-top: 10px;
+  float: left;
+  width: 300px;
+  padding-top: 100px;
+  height: 150px;
+ margin-left: 100px;
+}
+.column3{
+  margin-top: 10px;
+  float: left;
+  width: 300px;
+  padding-top: 100px;
+  height: 100px;
+ margin-left: 150px;
+}
+.column1 h2{
+padding-top: 5%;
+}
+.column2 h2{
+padding-top: 5%;
+}
+.column3 h2{
+padding-top: 5%;
+}
+.B{
+width: 1600px;
+height: 500px;
+/*margin-left: 147px;*/
+}
+.kyl{
+float: left;
+}
+.C{
+width: 1000px;
+height: 700px;
+margin-left: 200px;
+background-color: rgb(200,200,200);
+margin-top: -20px;
+margin-left: 600px;
+}
+.C h2{
+margin-left: 70px;
+/*margin-top: -100px;*/
+}
+.C p{
+margin-left: 70px;
+margin-top: 100px;
+}
+
+
+.D{
+float: left;  
+width: 300px;
+height:140px;
+margin-top: -400px;
+margin-left: 70px;
+}
+.D span{
+float: left;
+margin-top: 20px;
+padding-right: 10px;
+color: green;
+/*margin-left: 70px;*/
+}
+.E{
+float: left;
+width: 300px;
+height:140px;
+margin-top: -400px;
+margin-left: 370px;
+}
+.E span{
+float: left;
+margin-top: 20px;
+padding-right: 10px;
+color: green;
+}
+.six{
+float: left;
+width: 300px;
+height:140px;
+margin-top: -200px;
+margin-left: 80px;
+}
+.six span{
+float: left;
+margin-top: 20px;
+padding-right: 10px;
+color: green;
+}
+.seven{
+float: left;
+width: 300px;
+height:140px;
+margin-top: -200px;
+margin-left: 500px;
+}
+.seven span{
+float: left;
+margin-top: 20px;
+padding-right: 10px;
+color: green;
+}
+.eight{
+width: 1600px;
+height: 400px;
+float: left;
+color:rgb(0,0,0,0.7);
+background-color: white;
+/*	margin-left: 147px;*/
+margin-top: -4px;
+}
+.eight h2{
+margin-left: 100px;
+padding-top: 50px;
+}
+.eight p{
+width: 600px;
+height: 400px;
+margin-left: 100px;
+}
+.eight a{
+margin-top: 350px;
+/*margin-left: -60px;*/
+}
+.Aliz{
+text-align: center;
+border:1px solid green;
+color: green;
+font-size: 20px;
+text-decoration: none;
+padding: 10px 20px;
+position: absolute;
+    top: 240%;
+    left: 15%;
+    transform: translate(-70%, -55%);
+
+}
+.eight .para {
+  width: 850px;
+  height: 349px; 
+  background-color: white; 
+  float: right;
+  margin-top: -480px;
+}
+.para p{
+margin-left: 50px;
+margin-top: 30px;
+}
+.para .html{
+  text-align: right; 
+  color: white;  
+  margin-top: -900px;
+  margin-left: 50px;
+}
+.rapa p{
+margin-left: 50px;
+margin-top: 30px;
+}
+.rapa .css{
+  text-align: right; 
+  color: white;  
+  margin-left: 50px;
+  margin-top: 50px;
+}
+.rap p{
+margin-left: 50px;
+margin-top: 30px;
+}
+.rap .js{
+  text-align: right; 
+  color: white;  
+  margin-top: 50px;
+  margin-left: 50px;
+}
+.par p{
+margin-left: 50px;
+margin-top: 30px;
+}
+.par .php{
+  text-align: right; 
+  color: white;  
+  margin-top: 50px;
+  margin-left: 50px;
+}
+.html {width: 50%; background-color: #4CAF50;}
+.css {width: 50%; background-color: #4CAF50;}
+.js {width: 50%; background-color: #4CAF50;}
+.php {width: 50%; background-color: #4CAF50;} 
+
+.resume{
+width: 1600px;
+height: 300px;
+text-align: center;
+color:rgb(0,0,0,0.7);
+background-color:rgb(0,0,0,0.1);
+margin-top: -137px; 
+}
+.resume h2{
+text-align: center;
+margin-left: 30%;
+margin-right: 30%;
+}
+.resume p{
+text-align: center;
+margin-left: 30%;
+margin-right: 30%;
+}
+.resume a{
+border:2px solid #F48881;
+text-decoration: none;
+color: #F48881;
+}
+.nine{
+width: 1600px;
+height: 600px;
+color: rgb(0,0,0,0.7);
+margin-top: -20px;
+background-color: white;
+}
+.ninee{
+margin-left: 50px;
+}
+.ninty{
+float:right;
+margin-left: 500px;
+}
+.ninty h3{
+margin-left: -700px;
+margin-top: -420px;
+}
+.ninty p{
+margin-left: -700px;
+margin-top: -10px;
+}
+.gap{
+width: 80px;
+height: 30px;
+background-color:#4CAF50;
+margin-left: -700px;
+margin-top: -390px;
+text-align: center;
+}
+.ninty .nin{
+margin-top: 20px;
+margin-left: -700px;
+}
+.ten{
+float:right;
+margin-left: 500px;
+}
+.ten h3{
+margin-left: 200px;
+margin-top: -300px;
+}
+/*.ten p{
+margin-left: 200px;
+margin-top: -250px;
+}*/
+.gep{
+width: 80px;
+height: 30px;
+background-color:/*#4CAF50;*/
+margin-left: -700px;
+margin-top: -390px;
+text-align: center;
+}
+.ten .tin{
+margin-top: 20px;
+margin-left: -700px;
+}
+.eleven{
+width: 1600px;
+height: 700px;
+color: rgb(0,0,0,0.7);
+background-color: white;
+margin-top: -10px;
+}
+.elev{
+margin-left: 50px;
+}
+.elev p{
+margin-left: 150px;
+padding-top: 20px;
+}
+.even{
+float:right;
+margin-left: 150px;
+}
+.even h3{
+margin-left: 10%;
+margin-top: -420px;
+}
+.even p{
+margin-left: 10%;
+margin-top: -10px;
+}
+.gip{
+width: 80px;
+height: 30px;
+background-color:/*#4CAF50;*/
+margin-left: 10%;
+margin-top: -390px;
+text-align: center;
+}
+.even .veen{
+margin-top: 20px;
+}
+.twelve{
+float:right;
+margin-right: 150px;
+}
+.twelve h3{
+margin-left: 12%;
+margin-top: -320px;
+}
+.twelve p{
+margin-left: 12%;
+margin-top: -10px;
+}
+.gop{
+width: 80px;
+height: 30px;
+background-color:/*#4CAF50;*/
+margin-left: 12%;
+margin-top: -390px;
+text-align: center;
+}
+.twelve .welve{
+margin-top: 20px;
+}
+
+/*.adu p{
+margin-left: 10%;
+
+}
+
+
+.adu h3{
+margin-left: 10%;
+margin-top: 15%;
+margin-bottom: 0;
+}
+
+.adu hr{
+float: left;
+width: 420px;
+border : 1px solid rgb(0,0,0,0.2);
+margin-top: 2%;
+margin-left: 9%;
+margin-right: 13%;
+overflow: auto;
+*/
+}/*
+
+.pg{
+width: 60px;
+height: 30px;
+background-color:#F48881;
+margin-left: 10%;
+margin-top: 0;
+text-align: center;
+margin-bottom: 2%;
+
+}
+
+
+.gpi{
+width: 60px;
+height: 30px;
+background-color:#F48881;
+margin-left: 10%;
+margin-top: 0;
+text-align: center;
+margin-bottom: 2%;
+
+}
+
+.gpip{
+width: 60px;
+height: 30px;
+background-color:#F48881;
+margin-left: 10%;
+margin-top: 0;
+text-align: center;
+margin-bottom: 2%;
+
+}
+
+.gpipi{
+width: 60px;
+height: 30px;
+background-color:#F48881;
+margin-left: 10%;
+margin-top: 0;
+text-align: center;
+margin-bottom: 2%;
+
+}
+*/

@@ -1,0 +1,26 @@
+body{
+	background: #fff;
+
+}
+
+.h_cont{
+	/*width: 800px;*/
+	width: 1035px;
+	height: 600px;
+	margin: 0 auto;	
+	font-size: 25px;
+	text-align: center;
+	font-weight: 300px;
+	background-color:rgb(47, 153, 96); 
+	font-family: font-family: 'Roboto', sans-serif;
+}
+.h_cont i{
+	font-size: 50px;
+	color: white;
+	width: 40px;
+	padding: 40px;
+}
+.h_cont i.fab-atlassian{background-color: blue;
+
+
+}	
